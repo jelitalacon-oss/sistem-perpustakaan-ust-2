@@ -22,8 +22,8 @@ Aplikasi web dinamis berbasis CRUD untuk pengelolaan perpustakaan.
 
 | Anggota | Peran | File yang Dikerjakan |
 |---------|-------|----------------------|
-| **Anggota 1** | Database Architect + Project Lead | `perpustakaan.sql`, `config/db.php`, setup GitHub |
-| **Anggota 2** | Backend Buku & Anggota | `buku/*.php`, `anggota/*.php` |
+| **Yohana Jelita** | Database Architect + Project Lead | `perpustakaan.sql`, `config/db.php`, setup GitHub |
+| **Zulfa Dzariyah Rahmawati** | Backend Buku & Anggota | `buku/*.php`, `anggota/*.php` |
 | **Anggota 3** | Backend Peminjaman | `peminjaman/*.php` |
 | **Anggota 4** | Frontend & UI/UX | `includes/`, `assets/css/`, `assets/js/`, `index.php` |
 
